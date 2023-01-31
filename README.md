@@ -1,6 +1,6 @@
 # Instructions
 
-Dockerize a video feed to a HPE DFaaS Topic
+Dockerize consumption of a video feed from HPE DFaaS Topic  
 Based on [kafka-face-detection](https://github.com/ajgoade/kafka-face-detection)  
 Producer companion project can be found here [dfaas-kafka-producer](https://github.com/ajgoade/dfaas-kafka-producer)
 
